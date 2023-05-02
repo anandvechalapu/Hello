@@ -1,0 +1,17 @@
+C:\Amar\Debug\Apps\1\365\202305020754\FASLICSRS\FASLICSRS.Service\bin\Debug\net7.0\FASLICSRS.Service.deps.json
+C:\Amar\Debug\Apps\1\365\202305020754\FASLICSRS\FASLICSRS.Service\bin\Debug\net7.0\FASLICSRS.Service.dll
+C:\Amar\Debug\Apps\1\365\202305020754\FASLICSRS\FASLICSRS.Service\bin\Debug\net7.0\FASLICSRS.Service.pdb
+C:\Amar\Debug\Apps\1\365\202305020754\FASLICSRS\FASLICSRS.Service\bin\Debug\net7.0\FASLICSRS.DataAccess.dll
+C:\Amar\Debug\Apps\1\365\202305020754\FASLICSRS\FASLICSRS.Service\bin\Debug\net7.0\FASLICSRS.DTO.dll
+C:\Amar\Debug\Apps\1\365\202305020754\FASLICSRS\FASLICSRS.Service\bin\Debug\net7.0\FASLICSRS.DTO.pdb
+C:\Amar\Debug\Apps\1\365\202305020754\FASLICSRS\FASLICSRS.Service\bin\Debug\net7.0\FASLICSRS.DataAccess.pdb
+C:\Amar\Debug\Apps\1\365\202305020754\FASLICSRS\FASLICSRS.Service\obj\Debug\net7.0\FASLICSRS.Service.csproj.AssemblyReference.cache
+C:\Amar\Debug\Apps\1\365\202305020754\FASLICSRS\FASLICSRS.Service\obj\Debug\net7.0\FASLICSRS.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Amar\Debug\Apps\1\365\202305020754\FASLICSRS\FASLICSRS.Service\obj\Debug\net7.0\FASLICSRS.Service.AssemblyInfoInputs.cache
+C:\Amar\Debug\Apps\1\365\202305020754\FASLICSRS\FASLICSRS.Service\obj\Debug\net7.0\FASLICSRS.Service.AssemblyInfo.cs
+C:\Amar\Debug\Apps\1\365\202305020754\FASLICSRS\FASLICSRS.Service\obj\Debug\net7.0\FASLICSRS.Service.csproj.CoreCompileInputs.cache
+C:\Amar\Debug\Apps\1\365\202305020754\FASLICSRS\FASLICSRS.Service\obj\Debug\net7.0\FASLICSRS.Service.csproj.CopyComplete
+C:\Amar\Debug\Apps\1\365\202305020754\FASLICSRS\FASLICSRS.Service\obj\Debug\net7.0\FASLICSRS.Service.dll
+C:\Amar\Debug\Apps\1\365\202305020754\FASLICSRS\FASLICSRS.Service\obj\Debug\net7.0\refint\FASLICSRS.Service.dll
+C:\Amar\Debug\Apps\1\365\202305020754\FASLICSRS\FASLICSRS.Service\obj\Debug\net7.0\FASLICSRS.Service.pdb
+C:\Amar\Debug\Apps\1\365\202305020754\FASLICSRS\FASLICSRS.Service\obj\Debug\net7.0\ref\FASLICSRS.Service.dll
