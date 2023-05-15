@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApexClass xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>46.0</apiVersion>
+    <status>Active</status>
+    <description>This class is used to create a lightning web component to display the questions related to a specific survey from the Survey Questions object, and save the feedback provided by the users to the survey response object.</description>
+</ApexClass>
